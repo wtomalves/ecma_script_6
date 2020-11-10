@@ -1,0 +1,1 @@
+(()=>{"use strict";var e,r={418:(e,r)=>{Object.defineProperty(r,"__esModule",{value:!0}),r.soma=function(e,r){return e+r}}},t={};e=function e(o){if(t[o])return t[o].exports;var s=t[o]={exports:{}};return r[o](s,s.exports,e),s.exports}(418),alert(oi),alert((0,e.soma)(2,3))})();
